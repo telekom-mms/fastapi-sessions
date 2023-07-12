@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name="fastapi_sessions",
     packages=[""],
-    version="0.1",
+    version="0.3.3",
     license="MIT",
     description="Ready-to-use session cookies with custom backends for FastAPI",
     long_description=open("readme.md").read(),
